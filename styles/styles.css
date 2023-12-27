@@ -165,7 +165,8 @@ margin-bottom: 45px;
 
 /* sidebar styles */
 
-.university {
+.university,
+.life {
     font-style: normal;
     font-weight: bold;
     font-size: 16px;
